@@ -25,4 +25,4 @@ A (work in progess) Discord bot for checking Hypixel profiles easily on Discord.
 ## Made By
 made by @tenderpork with help from @valoronions and @ungamestudios
 
-### May 2021# hubportal
+### May 2021
